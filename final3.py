@@ -1,3 +1,6 @@
+#client file to be run through cmd/terminal with 3 command line arguments-server ip,server port number and
+#set number
+
 import sys,os
 from PyQt4 import QtCore, QtGui
 from PyQt4.QtCore import pyqtSlot,SIGNAL,SLOT
